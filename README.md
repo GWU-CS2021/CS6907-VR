@@ -22,9 +22,12 @@ Practices
 
 ## Useful link
 Recommended Readings
+
 This tutorial helps you build your first VR app in Unity
 https://developer.oculus.com/documentation/unity/unity-tutorial
+
 Getting started with VR development in Unity
 https://docs.unity3d.com/Manual/VROverview.html
+
 Getting started with AR development in Unity
 https://docs.unity3d.com/Manual/AROverview.html
