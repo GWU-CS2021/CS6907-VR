@@ -9,3 +9,13 @@
 - 04/07 AR App Status update
 - 04/21 AR App Release due AR/Project Report due/Peer Evaluations due
 - 05/05 EXAM2
+
+## VR Project
+Build a VR app using one of these VR development platforms: Amazon
+Sumerian or Unity. Evaluate two distinct peer VR projects following
+the Virtual Reality Best Practices.
+
+## AR Project 
+Design, implement, and evaluate mobile AR applications. Evaluate two
+distinct peer AR projects following the Augmented Reality Best
+Practices
