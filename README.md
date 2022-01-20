@@ -2,6 +2,7 @@
 ## DDLS
 - 01/27 VR App proposal due
   - 1-2 Page proposal 
+  - Team member, individual responsibility
 - 02/10 VR App Status update
 - 02/24 VR App Release due
 - 03/03 VR Project report due/Peer evaluations due
