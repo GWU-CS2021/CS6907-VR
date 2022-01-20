@@ -3,6 +3,11 @@
 - 01/27 VR App proposal due
   - 1-2 Page proposal 
   - Team member, individual responsibility
+  - simple AI should be implemented
+  - Guild user using sound effects, text, sign
+  - performance statistics.,
+  - 6 degree of Freedom
+  - movement of user
 - 02/10 VR App Status update
 - 02/24 VR App Release due
 - 03/03 VR Project report due/Peer evaluations due
