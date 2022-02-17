@@ -9,8 +9,8 @@
   - 6 degree of Freedom
   - movement of user
 - 02/10 VR App Status update
-- 02/24 VR App Release due
-- 03/03 VR Project report due/Peer evaluations due
+- 02/24(03/03 updated) VR App Release due
+- 03/03(03/07 updated) VR Project report due/Peer evaluations due
 - 03/10 EXAM1
 - 03/24 AR App proposal due
 - 04/07 AR App Status update
