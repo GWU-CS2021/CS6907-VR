@@ -15,7 +15,7 @@
 - 03/24 AR App proposal due
 - 04/07 AR App Status update
 - 04/21 AR App Release due AR/Project Report due/Peer Evaluations due
-- 05/05 EXAM2
+- 05/05 EXAM2 TOMP	402	Thursday, May 5, 2022 5:20pm-7:20pm
 
 ## VR Project
 Build a VR app using one of these VR development platforms: Amazon
